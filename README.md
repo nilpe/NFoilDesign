@@ -6,7 +6,7 @@ XGAG  -XFOIL Genetic Algorithm Graphical user interface airfoil design tool-
 基本的な動作は確認しましたが、細部でバグがあるかもしれません。gplライセンスでの提供になります。
 これはつくば鳥人間の会の会員が制作しました。
 会のホームページはこちらです。
-https://stb.tsukuba.ac.jp/~tbw/
+https://www.stb.tsukuba.ac.jp/~tbw/
 
 以下フォーク元のreadme
 
